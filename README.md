@@ -89,7 +89,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mascalucian's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mascalucian" />
+  <img align="left" alt="mascalucian's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mascalucian&hide=stars,issues,contribs" />
 
 </details>
 
