@@ -5,11 +5,11 @@
 
 ## I'm a Student, Crypto Enthusiast, Youtuber, Developer and DevOps Engineer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Learn the DevOps methodologies better
+<!-- - ⚡ Fun fact: I love to ride motorcycles and review them on Youtube -->
 
 ### Connect with me:
 
@@ -95,10 +95,10 @@
 
 [website]: https://instagram.com/luci.masca
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[twitter]: https://twitter.com/LucianMasca
+[youtube]: https://youtube.com/slickmotovlog
 [instagram]: https://instagram.com/luci.masca
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/lucian-mașca-29680b195/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
