@@ -1,6 +1,6 @@
 ### Hi there, I'm [Lucian][website] 👋
 
-[![Website](https://img.shields.io/website?label=Contact-me&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucian-ma%C8%99ca-29680b195%2F)](https://www.linkedin.com/in/lucian-ma%C8%99ca-29680b195/)
+[![Website](https://img.shields.io/website?label=Contact-me&style=for-the-badge&url=https://instagram.com/luci.masca)](https://instagram.com/luci.masca)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lucianmasca?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmascalucian&screen_name=mascalucian)
 
 ## I'm a Student, Crypto Enthusiast, Youtuber, Developer and DevOps Engineer!!
