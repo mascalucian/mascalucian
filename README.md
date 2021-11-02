@@ -7,7 +7,7 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn the DevOps methodologies better
+- 🥅 2021 Goals: Learn the DevOps methodologies and technologies better (focusing on Terraform, Azure Devops and AWS)
 <!-- - ⚡ Fun fact: I love to ride motorcycles and review them on Youtube -->
 
 ### Connect with me:
