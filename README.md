@@ -5,7 +5,7 @@
 ## I'm a Student, Crypto Enthusiast, Youtuber, Developer and DevOps Engineer!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning AWS services and Blockchain Technologies
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn the DevOps methodologies and technologies better (focusing on Terraform, Azure Devops and AWS)
 <!-- - ⚡ Fun fact: I love to ride motorcycles and review them on Youtube -->
