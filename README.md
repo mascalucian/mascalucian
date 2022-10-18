@@ -44,12 +44,10 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Last public appearance:
 
 <!-- YOUTUBE:START -->
-- [Cum pornesti cu o Motocicleta pentru Prima Data? Sfaturi pentru incepatori](https://www.youtube.com/watch?v=M72UTMSLILk)
-- [KTM RC 125 (Prezentare)](https://www.youtube.com/watch?v=SJPKLmETqTQ)
-- [CUM se face POLIGONUL MOTO (A1, A2, A) | SlickMOTO🤯](https://www.youtube.com/watch?v=OgXl54g2fKE)
+- [Talk @ CryptoVineri w/ Andrei Bratucu](https://www.youtube.com/watch?v=87A5dZJ69ls)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/slickmotovlog)
