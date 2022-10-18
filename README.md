@@ -74,12 +74,12 @@
 
 </details>
 
-[website]: https://instagram.com/luci.masca
-[course]: http://vsCodeHero.com
+[website]: https://twitter.com/LucianMasca
+[course]: https://twitter.com/LucianMasca
 [twitter]: https://twitter.com/LucianMasca
 [youtube]: https://youtube.com/slickmotovlog
-[instagram]: https://instagram.com/luci.masca
-[linkedin]: https://linkedin.com/in/lucian-mașca-29680b195/
+[instagram]: https://instagram.com/lucianmsc
+[linkedin]: https://linkedin.com/in/lucian-masca
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
