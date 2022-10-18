@@ -4,6 +4,16 @@
 
 ## I'm a DevOps Engineer, Crypto Enthusiast, Youtuber, Developer and Founder of Quadrant Software
 
+---
+
+### 📺 Last public appearance:
+
+<!-- YOUTUBE:START -->
+- [Talk @ CryptoVineri w/ Andrei Bratucu](https://www.youtube.com/watch?v=87A5dZJ69ls)
+<!-- YOUTUBE:END -->
+
+---
+
 <!-- - 🔭 Custom solutions for projects building on Elrond: [Reserve your Team][quadrant]! -->
 - 🌱 I’m currently learning AWS services and Blockchain Technologies
 - 👯 I’m looking to collaborate with other content creators
@@ -41,16 +51,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Last public appearance:
-
-<!-- YOUTUBE:START -->
-- [Talk @ CryptoVineri w/ Andrei Bratucu](https://www.youtube.com/watch?v=87A5dZJ69ls)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/slickmotovlog)
 
 ---
 
