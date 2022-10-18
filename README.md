@@ -2,9 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lucianmasca?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmascalucian&screen_name=mascalucian)
 
-## I'm a Student, Crypto Enthusiast, Youtuber, Developer and DevOps Engineer!!
+## I'm a DevOps Engineer, Crypto Enthusiast, Youtuber, Developer and Founder of Quadrant Software
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
+<!-- - 🔭 Custom solutions for projects building on Elrond: [Reserve your Team][quadrant]! -->
 - 🌱 I’m currently learning AWS services and Blockchain Technologies
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn the DevOps methodologies and technologies better (focusing on Terraform, Azure Devops and AWS)
@@ -75,7 +75,7 @@
 </details>
 
 [website]: https://twitter.com/LucianMasca
-[course]: https://twitter.com/LucianMasca
+[quadrant]: https://quadrant.software
 [twitter]: https://twitter.com/LucianMasca
 [youtube]: https://youtube.com/slickmotovlog
 [instagram]: https://instagram.com/lucianmsc
