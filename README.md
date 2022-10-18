@@ -15,7 +15,7 @@
 ---
 
 <!-- - 🔭 Custom solutions for projects building on Elrond: [Reserve your Team][quadrant]! -->
-- 🌱 I’m currently learning AWS services and Blockchain Technologies
+- 🌱 I’m currently migrating enterprise production workloads to the cloud, emerging in Web3 & looking for opportunities to complement blockchain technologies with infrastructure providers like AWS.
 - 👯 I’m looking to collaborate with other content creators and builders on Elrond Network
 - 🥅 2022 Q4 Professional Goals: Launch Elrond Custom Price Alerting w/ Maiar login, telegram & e-mail notifications, sign the first long-term Quadrant development contract.
 - 🥅 2022 Q4 Personal Goals: Perfect Grafana, Ansible skills, assimilate new executive skills.
